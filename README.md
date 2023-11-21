@@ -4,7 +4,7 @@
 The resume website I built using HTML and CSS is a sleek and professional online platform that showcases my skills, experience, and accomplishments in a visually appealing and user-friendly manner.
 
 
-## Authors
+## Author
 
 - [@Surjoyday](https://www.github.com/Surjoyday)
 
